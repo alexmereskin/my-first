@@ -1,4 +1,10 @@
 my first pull
 my second pull
 bnugfix coment
+<<<<<<< HEAD
 3 new
+=======
+
+
+4 NEW BRANCH
+>>>>>>> newbraNCH
